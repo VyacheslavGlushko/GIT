@@ -127,3 +127,4 @@ Bash
  git show
 git log
 git log --oneline
+добвить комментарии
