@@ -123,3 +123,7 @@ Bash
 *.log                                           # Исключить все файлы .log
 /test-reports/                                  # Исключить папку 'test-reports'
 /temp/                                          # Исключить папку 'temp'
+
+ git show
+git log
+git log --oneline
